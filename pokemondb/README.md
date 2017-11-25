@@ -51,6 +51,9 @@ POKEMON
   - each pokemon has a type 
   - each pokemon should know its own moves that it can use 
   - each pokemon, if it has one, should know its pre and post evolutions  
+  
+TYPE 
+  - should know all the pokemon under it 
 
 MOVES 
   - each move should know what type it is categorized under 
@@ -58,6 +61,7 @@ MOVES
 TRAINERS 
   - each trainer should know its favorite pokemon 
   - each trainer should know its preferred type 
+  - each trainer should know all of the pokemon associated with its favorite type
 
 GYMLEADER
   - each gym leader should know what region it is in 

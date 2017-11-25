@@ -1,2 +1,3 @@
 class Trainer < ApplicationRecord
+  
 end 
